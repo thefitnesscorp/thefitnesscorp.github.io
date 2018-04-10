@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+body {
+	background: #ffb74d;
+	color: #0f0f0f;
+	font-family: "Lato", sans-serif;
+}
+
+.col-sm-12, .col-md-6 {
+	padding: 0;
+}
+
+.newsletter {
+	background-color: #ffffff;
+	margin: 5vh 0;
+}
+
+.logo h1 {
+	font-weight: 600;
+}
+
+.description {
+	font-size: 16px;
+	letter-spacing: 1px;
+	margin: 50px 0;
+}
+
+.fab {
+	color: #fb3958;
+	font-size: 50px;
+	margin-top: 25px;
+}
+
+.fab:hover {
+	color: #458eff;
+}
